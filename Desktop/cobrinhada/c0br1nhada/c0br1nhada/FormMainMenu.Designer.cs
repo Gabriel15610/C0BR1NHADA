@@ -25,9 +25,9 @@
             this.btnStart.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.btnStart.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnStart.Font = new System.Drawing.Font("Consolas", 20F, System.Drawing.FontStyle.Bold);
-            this.btnStart.Location = new System.Drawing.Point(100, 70);
+            this.btnStart.Location = new System.Drawing.Point(123, 85);
             this.btnStart.Name = "btnStart";
-            this.btnStart.Size = new System.Drawing.Size(200, 60);
+            this.btnStart.Size = new System.Drawing.Size(161, 44);
             this.btnStart.TabIndex = 0;
             this.btnStart.Text = "Start";
             this.btnStart.UseVisualStyleBackColor = false;
@@ -39,9 +39,9 @@
             this.btnExit.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExit.Font = new System.Drawing.Font("Consolas", 20F, System.Drawing.FontStyle.Bold);
             this.btnExit.ForeColor = System.Drawing.Color.White;
-            this.btnExit.Location = new System.Drawing.Point(100, 150);
+            this.btnExit.Location = new System.Drawing.Point(123, 166);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(200, 60);
+            this.btnExit.Size = new System.Drawing.Size(161, 53);
             this.btnExit.TabIndex = 1;
             this.btnExit.Text = "Sair";
             this.btnExit.UseVisualStyleBackColor = false;
