@@ -1,0 +1,11 @@
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\bin\Release\c0br1nhada.exe.config
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\bin\Release\c0br1nhada.exe
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\bin\Release\c0br1nhada.pdb
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.csproj.AssemblyReference.cache
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.FormGame.resources
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.FormMainMenu.resources
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.Properties.Resources.resources
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.csproj.GenerateResource.cache
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.csproj.CoreCompileInputs.cache
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.exe
+C:\Users\amand\Desktop\cobrinhada\c0br1nhada\c0br1nhada\obj\Release\c0br1nhada.pdb

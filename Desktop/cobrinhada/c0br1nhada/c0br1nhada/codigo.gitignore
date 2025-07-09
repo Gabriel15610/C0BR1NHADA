@@ -1,0 +1,19 @@
+# Ignorar pastas de build
+bin/
+obj/
+
+# Ignorar arquivos de depuração
+*.pdb
+*.user
+*.log
+
+# Ignorar arquivos do Visual Studio
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos temporários do Windows
+Thumbs.db
+Desktop.ini
